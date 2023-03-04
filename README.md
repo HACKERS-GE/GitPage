@@ -1,5 +1,10 @@
 [Cyber News Hackers - Page Categories](https://hackers.ge/AboutHackers)
  
+ <div class="left">
+                        <a href="https://hackers.ge/">
+                            <img src="https://hackers.ge/uploads/logo/logo_63fcd5f084a22.png" alt="logo" class="logo">
+                        </a>
+                    </div>
  
  <div class="col-sm-12">
                         <div class="page-content font-text">
