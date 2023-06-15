@@ -2,7 +2,7 @@
  
  <div class="left">
                         <a href="https://hackers.ge/">
-                            <img src="https://hackers.ge/uploads/logo/logo_63fcd5f084a22.png" alt="logo" class="logo">
+                            <img src="https://hackers.ge/uploads/logo/logo_63fcd6059a8dc.png" alt="HackersGe Logo" class="logo"><br>
                         </a>
                     </div>
  
