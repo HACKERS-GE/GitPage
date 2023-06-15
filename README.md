@@ -8,11 +8,25 @@
  
  <div class="col-sm-12">
                         <div class="page-content font-text">
-                            <p><b><b>კიბერ სიახლეების საიტი Hackers.Ge ატარებს შემეცნებით, სამეცნიერო-საგანმანათლებლო ხასიათს. პორტალზე იტვირთება სტატიები და სიახლეები, რომელიც მიმდინარეობს ყოველდღიურად ჩვენს თანამედროვე ციფრულ სამყაროში<b></b></b></b></p>
+ <p>კიბერ სიახლეების საიტი Hackers.Ge ატარებს შემეცნებით, სამეცნიერო-საგანმანათლებლო ხასიათს. პორტალზე იტვირთება სტატიები და სიახლეები, რომელიც მიმდინარეობს ყოველდღიურად ჩვენს თანამედროვე ციფრულ სამყაროში
+ </p>
+                         
 <p>HackersGe - სიახლეების ვებსაიტზე იტვირთება სტატიები, რომელიც ეხება ინფორმაციულ ტექნოლოგიებს ან მასში შემავალ ელემენტებს</p>
-<p>სიახლეების გვერდი Hackers.Ge თავისუფალია და შეუძლიათ მომხმარებლებს რეგისტრაცია, სადაც განათავსებენ სტატიებს და საინტერესო ამბებს ინფორმაციული ტექნოლოგიების მიმართულებით, მაგრამ <b>კანონის ფარგლებში, რომელიც არ იქნება ზიანის მომტანი, არავისთვის და არაფრისთვის.</b>ჩვენი საიტის მიზანია ქვეყანაში აამაღლოს ცოდნა საზოგადოებაში ინფორმაციული ტექნოლოგიების განხრით და იყოს საზოგადოება ინფორმირებული ტექნოლოგიურ სივრცეში მიმდინარე მოვლენებზე</p>
-<p>&nbsp;© საიტზე დაცულია ყველა უფლება<br>• <span style="color: #ba372a;"><a href="https://hackers.ge/GDPRandPrivacyPolicy" style="color: #ba372a;">მონაცემთა დაცვის ზოგადი რეგულაცია </a></span><br>• <a href="https://hackers.ge/GDPR"><span style="color: #ba372a;">კონფიდენციალურობა</span> </a><br>• <a href="https://hackers.ge/terms-conditions"><span style="color: #ba372a;">წესები და პირობები</span> </a><br>• <span style="color: #ba372a;"><a href="https://gdpr-info.eu/" data-jsarwt="1" data-usg="AOvVaw1akHzzz224Oq1yU0pd6qSw" data-ved="2ahUKEwivzaKnhrb9AhUThv0HHa4uBLgQFnoECAkQAQ" style="color: #ba372a;"></a></span><a href="https://hackers.ge/GDPRandPrivacyPolicy" target="_blank" rel="noopener"><span style="color: #ba372a;">General Data Protection Regulation (GDPR)</span></a></p>
-<p style="text-align: right;">კითხვის შემთხვევაში დაუაკავშირდით გვერდის დამხმარეს : <span style="color: #236fa1;"><strong>support@hackers.ge</strong></span></p>
+                         
+<p> პორტალზე ნებისმიერ ადამიანს შეუძლია რეგისტრაცია, სადაც განათავსებენ სტატიებს და საინტერესო ამბებს ინფორმაციული ტექნოლოგიების მიმართულებით, მხოლოდ <b>კანონის ფარგლებში</b>, რომელიც <b>არ იქნება ზიანის მომტანი, არავისთვის და არაფრისთვის!</b>
+
+</b>ჩვენი საიტის მიზანია ქვეყანაში აამაღლოს ცოდნა საზოგადოებაში ინფორმაციული ტექნოლოგიების განხრით და იყოს საზოგადოება ინფორმირებული ტექნოლოგიურ სივრცეში მიმდინარე მოვლენებზე</p>
+
+<p style="text-align: center;">&nbsp;2022-2023 <strong><em>&copy;</em></strong> საიტზე დაცულია ყველა უფლება</p>
+
+  • <span style="color: #ba372a;"><a href="https://hackers.ge/GDPRandPrivacyPolicy" style="color: #ba372a;">მონაცემთა დაცვის ზოგადი რეგულაცია </a></span>
+  <br>
+  • <a href="https://hackers.ge/GDPR"><span style="color: #ba372a;">კონფიდენციალურობა</span> </a><br>
+  • <a href="https://hackers.ge/terms-conditions"><span style="color: #ba372a;">წესები და პირობები</span> </a><br>
+  • <span style="color: #ba372a;"><a href="https://gdpr-info.eu/" data-jsarwt="1" data-usg="AOvVaw1akHzzz224Oq1yU0pd6qSw" data-ved="2ahUKEwivzaKnhrb9AhUThv0HHa4uBLgQFnoECAkQAQ" style="color: #ba372a;"></a></span><a href="https://hackers.ge/GDPRandPrivacyPolicy" target="_blank" rel="noopener"><span style="color: #ba372a;">General Data Protection Regulation (GDPR)</span></a></p>
+
+<p style="text-align: right;">გვერდის ადმინისტრაცია : <span style="color: #236fa1;"><strong>support@hackers.ge</strong></span></p>
+
 <hr>
 <p><a href="https://hackers.ge/kiber" target="_blank" rel="noopener"><strong>კიბერ სიახლეები</strong></a></p>
 <p><a href="https://hackers.ge/motskobilobebi" target="_blank" rel="noopener"><strong>მოწყობილობები</strong></a></p>
