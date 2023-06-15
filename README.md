@@ -20,6 +20,9 @@
 <p><a href="https://hackers.ge/Kripto" target="_blank" rel="noopener"><strong>კრიპტო</strong></a></p>
 <p><a href="https://hackers.ge/teqnologia" target="_blank" rel="noopener"><strong>ტექნოლოგია</strong></a></p>
 <p><a href="https://hackers.ge/hakerebi" target="_blank" rel="noopener"><strong>ჰაკერები</strong></a></p>
+<p><a href="https://hackers.ge/warez" target="_blank" rel="noopener"><strong>პროგრამები და აპლიკაციები
+</strong></a></p>
+
 <p><strong></strong></p>
 <hr>
 <h1 style="text-align: center;"><span style="color: #3598db;">FOLLOW US</span></h1>
